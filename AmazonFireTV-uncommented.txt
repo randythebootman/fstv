@@ -38,6 +38,7 @@ api.amazon.com
 n4h9utzk4f.execute-api.us-east-1.amazonaws.com
 
 # others (unknown usage)
+aviary.amazon.com
 ktpx-eu.amazon.com
 dp-rsm-prod.amazon.com
 firetvdeviceprofilemanagementservice-na.amazon.com
