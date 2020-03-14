@@ -51,11 +51,14 @@ dp-gw-na.amazon.com
 unagi-eu.amazon.com
 layla.amazon.com
 todo-ta-g7g.amazon.com
-spectrum.s3.amazonaws.com
+
 arcus-uswest.amazon.com
 pinpoint.us-east-1.amazonaws.com
 aviary.amazon.de
 digprjsurvey.amazon.eu
+
+#appears to be required for HOME to function
+spectrum.s3.amazonaws.com
 
 # third party
 config.ioam.de
